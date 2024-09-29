@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://ladoziqaguce.netlify.app/sitemap.xml
